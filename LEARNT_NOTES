@@ -1,0 +1,19 @@
+1.  TACHYONE FOR STYLING PURPOSE.
+	
+it is same as bootstrap. Give more and shorter class for styling.
+	ex: grow for shaking image in little larger.
+	shadow-4 for shadowing, pa3, ma3 for padding and margin 
+	
+	TO INSTALl: npm install tachyons
+	To use :  import 'tachyons';
+
+
+2. API FOR fetching avatar image based on name.
+
+ <img src={`https://joeschmoe.io/api/v1/${props.name}`} alt="Avatar" />
+
+ 3. Google fonts apply in css page
+
+ @import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
+
+AND apply  :    font-family: 'Gugi', cursive;
