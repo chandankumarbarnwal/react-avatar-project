@@ -3,7 +3,7 @@
 it is same as bootstrap. Give more and shorter class for styling.
 	ex: grow for shaking image in little larger.
 	shadow-4 for shadowing, pa3, ma3 for padding and margin 
-	
+	  
 	TO INSTALl: npm install tachyons
 	To use :  import 'tachyons';
 
