@@ -1,3 +1,9 @@
+To run project 
+ 	install :   npm install
+ 				npm install tachyons
+
+
+
 1.  TACHYONE FOR STYLING PURPOSE.
 	
 it is same as bootstrap. Give more and shorter class for styling.
